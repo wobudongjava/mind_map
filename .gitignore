@@ -1,0 +1,4 @@
+*.xml
+configuration/*
+p2/*
+workspace/*
